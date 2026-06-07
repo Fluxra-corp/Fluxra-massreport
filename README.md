@@ -38,7 +38,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/786396170876223498/1511361355876405299/showc.png?ex=6a202c72&is=6a1edaf2&hm=4163d4ae05064bba6cc165c1fb5ff0062c64b3ba04e3f3ad5621000bf6a7ee55&=&format=webp&quality=lossless" width="55%" alt="Preview">
+  <img src="https://media.discordapp.net/attachments/786396170876223498/1511361355876405299/showc.png?ex=6a261b32&is=6a24c9b2&hm=90a61e572fb03e1fa109f153b861730fdd77bccb97df63aab1677a61d5ba21c5&=&format=webp&quality=lossless" width="55%" alt="Preview">
 </p>
 <br>
 
