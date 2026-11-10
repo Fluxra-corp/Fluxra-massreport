@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/786396170876223498/1511361355368763423/logo_1.png?ex=6a202c72&is=6a1edaf2&hm=1df60cd6eff993a916047fae2eb060b60a5d4de4fdd33ccc1f117b11ed70c342&](https://media.discordapp.net/attachments/786396170876223498/1569721475609530469/logo-v4.png?ex=6af47c8b&is=6af32b0b&hm=e5d6a11437d25f7bf61d57187c77180397289508188b2777789fa7b08f08399f&=&format=webp&quality=lossless&width=640&height=640)" width="180" alt="Logo">
+  <img src="https://media.discordapp.net/attachments/786396170876223498/1569721475609530469/logo-v4.png?ex=6af47c8b&is=6af32b0b&hm=e5d6a11437d25f7bf61d57187c77180397289508188b2777789fa7b08f08399f&=&format=webp&quality=lossless&width=640&height=640" width="180" alt="Logo">
 </p>
 
 ### 🌐 Official Website
@@ -38,7 +38,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/786396170876223498/1511361355876405299/showc.png?ex=6a202c72&is=6a1edaf2&hm=4163d4ae05064bba6cc165c1fb5ff0062c64b3ba04e3f3ad5621000bf6a7ee55&=&format=webp&quality=lossless" width="55%" alt="Preview">
+  <img src="https://cdn.discordapp.com/attachments/786396170876223498/1569722821104504913/showc.png?ex=6af47dcc&is=6af32c4c&hm=797413a7ef33e0a52dedcbcb0df75badb5e9685eaeb36aedea5ae7ad8b1a8eac&" width="55%" alt="Preview">
 </p>
 <br>
 
@@ -74,7 +74,7 @@ https://fluxra.tech/
 
 ## 📊 Platform Status
 
-🕒 Last updated: 06/02/2026
+🕒 Last updated: 11/10/2026
 
 
 ## 📬 Contact
