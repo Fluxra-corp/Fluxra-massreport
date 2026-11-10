@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/786396170876223498/1511361355368763423/logo_1.png?ex=6a202c72&is=6a1edaf2&hm=1df60cd6eff993a916047fae2eb060b60a5d4de4fdd33ccc1f117b11ed70c342&" width="180" alt="Logo">
+  <img src="[https://cdn.discordapp.com/attachments/786396170876223498/1511361355368763423/logo_1.png?ex=6a202c72&is=6a1edaf2&hm=1df60cd6eff993a916047fae2eb060b60a5d4de4fdd33ccc1f117b11ed70c342&](https://media.discordapp.net/attachments/786396170876223498/1569721475609530469/logo-v4.png?ex=6af47c8b&is=6af32b0b&hm=e5d6a11437d25f7bf61d57187c77180397289508188b2777789fa7b08f08399f&=&format=webp&quality=lossless&width=640&height=640)" width="180" alt="Logo">
 </p>
 
 ### 🌐 Official Website
@@ -24,8 +24,8 @@
 ## 🎥 Showcase 
 
 <p align="center">
-  <a href="https://youtu.be/poSMtJgaGfI?si=Zo510VqxEXFkRqqE">
-    <img src="https://img.youtube.com/vi/poSMtJgaGfI/maxresdefault.jpg" width="850" alt="Video Showcase">
+  <a href="https://youtu.be/dI8NBW0JaJ4">
+    <img src="https://img.youtube.com/vi/dI8NBW0JaJ4/maxresdefault.jpg" width="850" alt="Video Showcase">
   </a>
 </p>
 
