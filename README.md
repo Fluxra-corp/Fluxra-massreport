@@ -1,37 +1,36 @@
+
 <div align="center">
 
-<img src="./logo.png" width="140" alt="Fluxra logo" />
+# 🚀 Instagram Mass Report tool
+### ⚡ Fast • Reliable  • Exclusive Access
 
-# 🚀 Fluxra Instagram Reporting Tool
+[![Website](https://img.shields.io/badge/Official%20Website-Live-success)](https://fluxra.tech/)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Fluxra2)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen)](#)
+[![Access](https://img.shields.io/badge/Access-Premium-orange)](#)
 
-### ⚡ Fast • Reliable • Private Access
+<br>
 
-[![Website](https://img.shields.io/badge/Official%20Website-Live-success?style=for-the-badge)](https://fluxra.tech/)
-[![Web Panel](https://img.shields.io/badge/Open-Web%20Panel-ff7a18?style=for-the-badge)](https://fluxra.tech/tool)
-[![Telegram](https://img.shields.io/badge/Join-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fluxra2)
-[![Access](https://img.shields.io/badge/Access-Premium-orange?style=for-the-badge)](https://t.me/Fluxra2)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/786396170876223498/1511361355368763423/logo_1.png?ex=6a202c72&is=6a1edaf2&hm=1df60cd6eff993a916047fae2eb060b60a5d4de4fdd33ccc1f117b11ed70c342&" width="180" alt="Logo">
+</p>
 
-<br />
-
-Fluxra is a private-access web dashboard for reviewing Instagram profiles,
-organizing report context, and following reporting activity from one focused workspace.
-
-### 🌐 [Visit fluxra.tech](https://fluxra.tech/)
+### 🌐 Official Website
+### https://fluxra.tech/
 
 </div>
 
----
 
-## 🎥 Showcase
+## 🎥 Showcase 
 
 <p align="center">
   <a href="https://youtu.be/poSMtJgaGfI?si=Zo510VqxEXFkRqqE">
-    <img src="./fluxra-instagram-takedown-thumbnail.png" width="850" alt="Watch the Fluxra showcase on YouTube" />
+    <img src="https://img.youtube.com/vi/poSMtJgaGfI/maxresdefault.jpg" width="850" alt="Video Showcase">
   </a>
 </p>
 
 <p align="center">
-  🎬 <strong>Click the image above to watch the full showcase.</strong>
+🎬 Click the image above to watch the full showcase
 </p>
 
 ---
@@ -39,91 +38,77 @@ organizing report context, and following reporting activity from one focused wor
 ## 📸 Preview
 
 <p align="center">
-  <img src="./showc.png" width="85%" alt="Fluxra web panel preview" />
+  <img src="https://media.discordapp.net/attachments/786396170876223498/1511361355876405299/showc.png?ex=6a202c72&is=6a1edaf2&hm=4163d4ae05064bba6cc165c1fb5ff0062c64b3ba04e3f3ad5621000bf6a7ee55&=&format=webp&quality=lossless" width="55%" alt="Preview">
 </p>
-
----
-
-## ✨ What Fluxra Includes
-
-| Feature | Description |
-| --- | --- |
-| 🔐 License access | Open the private web panel with a valid Fluxra license key. |
-| 👤 Profile review | Review a target username and organize the relevant profile context. |
-| 📝 Reporting workspace | Add a report reason and keep session resources in one place. |
-| 📊 Activity status | Follow session progress, status updates, and dashboard messages. |
-| 🌐 Browser-based panel | Use Fluxra directly from your browser without installing an app. |
-| 💬 Telegram support | Receive access instructions, setup help, and product updates. |
+<br>
 
 ---
 
 ## 💎 Getting Access
 
-### 1️⃣ Join the official Telegram
+### Step 1
 
-Visit **[t.me/Fluxra2](https://t.me/Fluxra2)** for access information and announcements.
+Join our official Telegram community.
 
-### 2️⃣ Request private access
+### Step 2
 
-Contact Fluxra support, review the available plan, and complete the access process.
+Receive instructions and latest announcements.
 
-### 3️⃣ Open the web panel
+### Step 3
 
-Go to **[fluxra.tech/tool](https://fluxra.tech/tool)** and enter your valid license key.
+Get access to the Tool and future updates.
 
-> Fluxra is privately distributed. License keys are not provided through this repository.
 
----
 
-## 🌍 Official Links
+## 🌍 Official Website
 
-<div align="center">
+<p align="center">
 
-| Destination | Link |
-| --- | --- |
-| 🌐 Official website | [fluxra.tech](https://fluxra.tech/) |
-| 🧰 Web panel | [fluxra.tech/tool](https://fluxra.tech/tool) |
-| ✈️ Telegram access & support | [t.me/Fluxra2](https://t.me/Fluxra2) |
-| 🎥 Video showcase | [Watch on YouTube](https://youtu.be/poSMtJgaGfI?si=Zo510VqxEXFkRqqE) |
+### Visit Our Website
 
-</div>
+https://fluxra.tech/
+
+</p>
 
 ---
 
 ## 📊 Platform Status
 
-- 🟢 **Website:** Online
-- 🔒 **Access:** Private / Premium
-- 💬 **Support:** Available through Telegram
-- 🕒 **Last updated:** November 10, 2026
+🕒 Last updated: 06/02/2026
 
----
 
-## ⚠️ Responsible Use
+## 📬 Contact
 
-Fluxra is intended only for lawful, good-faith reporting of genuine issues such as scams,
-impersonation, or harassment. Do not use Fluxra for false reports, spam, retaliation,
-harassment, or any other abusive activity.
+### Telegram
 
-Users are responsible for complying with all applicable laws, Instagram policies, and
-third-party terms. Platform operators independently control enforcement decisions, so
-Fluxra cannot guarantee that any account will be restricted or removed.
+https://t.me/Fluxra2
 
-Fluxra is independent and is not affiliated with, endorsed by, or sponsored by Instagram,
-Meta, or any other third-party platform.
+### Website
+
+https://fluxra.tech/
 
 ---
 
 <div align="center">
 
-## ⭐ Support the Project
+# ⭐ Support The Project
 
-If you enjoy Fluxra and want to follow future improvements, star this repository and join
-the official community.
+If you enjoy the platform and want to stay updated, don't forget to star this repository.
 
-<br />
+<br>
 
-[![Join Telegram](https://img.shields.io/badge/Join%20the%20Community-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fluxra2)
-[![Visit Website](https://img.shields.io/badge/Visit-fluxra.tech-ff7a18?style=for-the-badge)](https://fluxra.tech/)
+## 🚀 Join The Community
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Fluxra2)
+
+<br>
+
+### 🌐 https://fluxra.tech/
+
+## ⚠️ Educational Purpose Notice
+
+This project is intended for educational, research, and testing purposes only.
+
+Users are fully responsible for their actions and must comply with all applicable laws and platform policies. The creators and contributors accept no liability for misuse or damages resulting from the use of this project.
 
 </div>
